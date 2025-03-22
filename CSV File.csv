@@ -1,0 +1,46 @@
+Item code,Item,Net Wt./Vol.,Rate,Category Name,Category
+CM1,Kellog's Corn Flakes Original,500 g,280,Cereals and Muesli,Cereals and Muesli
+CM2,Kellog's Muesli 21% Fruit and Nut,500 g,400,Cereals and Muesli,Beverages
+CM3,Saffola Masala Oats,250g,200,Cereals and Muesli,Essentials
+CM4,Kellogg's Chocos,1kg,430,Cereals and Muesli,"Jams,Honey and Spreads"
+CM5,Kellogg's Crunchy Granola,460g,293,Cereals and Muesli,Dairy Products
+B1,Nescafe Classic Coffee Dawn Jar,200g,250,Beverages,Bakery and Baking Products
+B2,Lipton Pure Green Tea,25N,300,Beverages,Snacks
+B3,Society Tea,250g,150,Beverages,Biscuits
+B4,Maaza Mango Drink,1Ltr,60,Beverages,Instant Food
+B5,Glucon-D Lemon Flavour,1kg,300,Beverages,
+E1,Tata Salt,1kg,120,Essentials,
+E2,Gemini Groundnut Oil,5ltr,560,Essentials,
+E3,Tata Sampanna Wheat flour,5kg,230,Essentials,
+E4,Tata Sampanna Basmati Rice,5kg,480,Essentials,
+E5,Tata sampanna Toor Dal,2kg,250,Essentials,
+JS1,Kissan Mixed Fruit Jam,500g,190,"Jams,Honey and Spreads",
+JS2,Sundrop Peanut Butter,250g,200,"Jams,Honey and Spreads",
+JS3,Hershey's Chocolate Syrup,250g,170,"Jams,Honey and Spreads",
+JS4,Dabur Honey Squeezy,250g,270,"Jams,Honey and Spreads",
+JS5,Amul Cheese Spread,100g,50,"Jams,Honey and Spreads",
+D1,Amul Butter,500g,220,Dairy Products,
+D2,Amul Cheese ,250g,110,Dairy Products,
+D3,Amul Taaza Milk,1Ltr,60,Dairy Products,
+D4,Amul Curd,400ml,50,Dairy Products,
+D5,Amul Fresh Paneer ,200g,70,Dairy Products,
+BP1,Brittania Bread,400g,35,Bakery and Baking Products,
+BP2,Modern Pizza Base,200g,75,Bakery and Baking Products,
+BP3,Morde chocolate 50% compound,400g,150,Bakery and Baking Products,
+BP4,Weikfield Baking Powder ,100g,30,Bakery and Baking Products,
+BP5,Cocoa Powder,225g,190,Bakery and Baking Products,
+S1,Budhaani Salted Waffers,100g,170,Snacks,
+S2,Doritos NAcho Cheese flavour,200g,530,Snacks,
+S3,Makhaana,100g,170,Snacks,
+S4,Haldiram's Bhel,150g,170,Snacks,
+S5,Haldiram's Soya Sticks,200g,150,Snacks,
+BT1,Mariegold Biscuit,600g,60,Biscuits,
+BT2,Parle Gold Biscuit,600g,60,Biscuits,
+BT3,Sunfeast Mom's Magic,600g,70,Biscuits,
+BT4,Dark Fantasy Choco Fills,300g,80,Biscuits,
+BT5,Oreo Choco Creme,300g,60,Biscuits,
+I1,Act II Instant Golden Popcorn,180g,55,Instant food,
+I2,Maggi Instant Noodles,560g,80,Instant food,
+I3,Maggi Pazzta Cheese Macaroni,70g,20,Instant food,
+I4,Knorr Sweet Corn Veg Soup,44g,50,Instant food,
+I5,Maggi Ready-to-eat Masala Onion Poha,65g,25,Instant food,
